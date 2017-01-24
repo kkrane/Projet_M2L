@@ -1,0 +1,12 @@
+#home
+{
+    background:#303030 !important;
+}
+
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
